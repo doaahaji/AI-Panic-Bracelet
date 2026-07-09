@@ -1,4 +1,4 @@
-# 🚨 AI Panic Bracelet – Système Intelligent de Détection de Situations de Danger
+# AI Panic Bracelet – Système Intelligent de Détection de Situations de Danger
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge">
@@ -11,7 +11,7 @@
 
 ---
 
-# 📖 Présentation
+# Présentation
 
 **AI Panic Bracelet** est un prototype de bracelet intelligent conçu pour améliorer la sécurité des personnes grâce à une approche multimodale combinant l'Internet des Objets (IoT) et l'Intelligence Artificielle.
 
@@ -21,7 +21,7 @@ Lorsqu'un événement critique est identifié, le bracelet transmet les informat
 
 ---
 
-# 📷 Prototype
+# Prototype
 
 <p align="center">
     <img src="images/prototype.png" width="600" alt="Prototype du bracelet">
@@ -29,7 +29,7 @@ Lorsqu'un événement critique est identifié, le bracelet transmet les informat
 
 ---
 
-# 🎯 Objectifs
+# Objectifs
 
 - Détecter automatiquement les situations de danger.
 - Surveiller la fréquence cardiaque.
@@ -41,24 +41,24 @@ Lorsqu'un événement critique est identifié, le bracelet transmet les informat
 
 ---
 
-# 🚀 Fonctionnalités
+# Fonctionnalités
 
-- ❤️ Surveillance de la fréquence cardiaque
-- 🏃 Détection des mouvements
-- 😱 Détection automatique des cris
-- 🎭 Reconnaissance des émotions vocales
-- 📡 Communication Wi-Fi
-- 📨 Communication MQTT
-- 🌐 Tableau de bord Node-RED
-- 💻 Serveur Flask
-- 📺 Affichage OLED SSD1306
-- 📳 Vibreur
-- 🔘 Déclenchement manuel de l'alerte
-- ❌ Annulation de l'alerte par double clic
+- Surveillance de la fréquence cardiaque
+- Détection des mouvements
+- Détection automatique des cris
+- Reconnaissance des émotions vocales
+- Communication Wi-Fi
+- Communication MQTT
+- Tableau de bord Node-RED
+- Serveur Flask
+- Affichage OLED SSD1306
+- Vibreur
+- Déclenchement manuel de l'alerte
+- Annulation de l'alerte par double clic
 
 ---
 
-# 🛠️ Matériel utilisé
+# Matériel utilisé
 
 | Composant | Description |
 |-----------|-------------|
@@ -71,7 +71,7 @@ Lorsqu'un événement critique est identifié, le bracelet transmet les informat
 
 ---
 
-# 🧠 Intelligence Artificielle
+# Intelligence Artificielle
 
 Le système combine plusieurs modèles d'intelligence artificielle.
 
@@ -107,7 +107,7 @@ Classes :
 
 ---
 
-# ⚙️ Architecture du système
+# Architecture du système
 
 ```text
               ESP32
@@ -138,7 +138,7 @@ Classes :
 
 ---
 
-# 💻 Interface utilisateur
+# Interface utilisateur
 
 L'application permet de suivre en temps réel l'état du bracelet, les alertes détectées ainsi que l'historique des événements.
 
@@ -148,7 +148,7 @@ L'application permet de suivre en temps réel l'état du bracelet, les alertes d
 
 ---
 
-# 🛠️ Technologies utilisées
+# Technologies utilisées
 
 ### Langages
 
@@ -181,4 +181,3 @@ L'application permet de suivre en temps réel l'état du bracelet, les alertes d
 - MPU6050
 - MAX30105
 - OLED SSD1306
-
